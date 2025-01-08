@@ -1,0 +1,6 @@
+com\lg_group\test_project\TestProjectApplication.class
+com\lg_group\test_project\StudentMapper.class
+com\lg_group\test_project\controller\StudentController.class
+com\lg_group\test_project\DTO\StudentDTO.class
+com\lg_group\test_project\repository\StudentRepo.class
+com\lg_group\test_project\model\Student.class
